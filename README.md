@@ -1,5 +1,5 @@
 # NexusLinks
-#Based on a design by Mutable Instruments: https://mutable-instruments.net/modules/links/
+## Based on a design by Mutable Instruments: https://mutable-instruments.net/modules/links/
 
 Olivier Gillet ol.gillet@gmail.com
 
